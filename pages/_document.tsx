@@ -40,7 +40,7 @@ class MyDocument extends Document {
             href="/icons/apple-touch-icon.png"
           />
           <link rel="manifest" href="/manifest.json" />
-          <link rel="shortcut icon" href="/icons/favicon.ico" />
+          <link rel="shortcut icon" href="/favicon.ico" />
         </Head>
         <body>
           <Main />
